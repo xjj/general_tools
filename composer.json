@@ -1,0 +1,20 @@
+{
+  "name": "loktar/general_tools",
+  "description": "general_tools useful",
+  "type": "library",
+  "authors": [
+    {
+      "name": "loktar",
+      "email": "q_jz@foxmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Loktar\\GeneralTools\\": "src/"
+    }
+  }
+}
